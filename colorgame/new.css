@@ -1,0 +1,49 @@
+.square {
+
+background : blueviolet;
+padding-top: 20%;
+width: 30%;
+float: left;
+margin: 1.66%;
+border-radius: 15px;
+display: block;
+
+}
+#container{
+
+margin: 20px auto;
+max-width: 600px;
+height: 400px;
+height: auto;
+}
+html,body{
+
+    height: 100%;
+    width: 100%;
+    background: #232323;
+
+}
+#abc{
+margin-top: 260px;
+
+}
+#answer{
+    text-align: center;
+    text-transform: uppercase;
+}
+button{
+    margin-right: 10px;
+}
+.jumbotron{
+
+    background : coral;
+
+}
+#message{
+
+    display: block;
+ height: 5%;
+ -webkit-transition: text 5s;
+ transition: text 5s;
+ 
+}
